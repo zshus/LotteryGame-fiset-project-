@@ -67,6 +67,7 @@ public class ListFrame extends JPanel {
 	}
 
 	public void setNumsArr(JLabel[] numsArr) {
+		
 		if(numsArr.length==6) {
 			this.numsArr = numsArr;
 		}else {
