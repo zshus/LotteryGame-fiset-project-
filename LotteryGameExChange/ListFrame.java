@@ -75,6 +75,8 @@ public class ListFrame extends JPanel {
 					JOptionPane.DEFAULT_OPTION, JOptionPane.WARNING_MESSAGE);
 		}
 		
+		
+		
 	}
 
 	public JButton getBtnChange() {
